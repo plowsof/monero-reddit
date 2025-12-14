@@ -22,7 +22,6 @@ There are multiple Monero wallets for a wide range of devices at your disposal. 
 | Wallet       | Device       | Description | Download link   |
 |:------------:|:------------:|-------------|:---------------:|
 | *"Official"* GUI / CLI|  Windows, macOS, Linux|Default implementation maintained by the core team. Use this wallet to run a full node and obtain maximum privacy. Integrates with hardware wallets. *Current version: 0.18.3.1 / 0.18.3.1*.| [GetMonero.org](https://getmonero.org/downloads/)|
-|MyMonero|Windows, macOS, Linux|Lightweight wallet -- you don't need to download the blockchain and run a node. MyMonero was developed with the assistance of the core team. It also has web-based and iOS versions.|[MyMonero.com](https://mymonero.com/)|
 |Feather Wallet|Windows,macOS, Linux|Feather Wallet is a free, open-source Monero wallet for Linux, Tails, macOS and Windows. Supports hardware wallets (Trezor and Ledger) as well.|[Featherwallet.org](https://featherwallet.org)|
 |Exodus|Windows, macOS, Linux|⚠️ / Multi-asset wallet.|[Exodus.io](https://www.exodus.io/monero/)|
 |ZelCore|Windows, macOS, Linux|⚠️ / Multi-asset wallet. It also has Android and iOS versions.|[Zelcore.io](https://zelcore.io/)|
@@ -34,7 +33,6 @@ There are multiple Monero wallets for a wide range of devices at your disposal. 
 | Wallet       | Device       | Description | Download link   |
 |:------------:|:------------:|-------------|:---------------:|
 |Monerujo|Android|Integrates with Ledger (hardware wallet). Website: https://www.monerujo.io/. |[Google Play](https://play.google.com/store/apps/details?id=com.m2049r.xmrwallet) / [F-Droid](https://f-droid.monerujo.io/) / [GitHub](https://github.com/m2049r/xmrwallet/releases)|
-|MyMonero|Android / iOS|Website: https://mymonero.com/|[Google Play](https://play.google.com/store/apps/details?id=com.mymonero.official_android_application) / [App Store](https://itunes.apple.com/app/mymonero-send-money-privately/id1372508199)|
 |Cake Wallet|Android / iOS|Website: https://cakewallet.io/|[Google Play](https://play.google.com/store/apps/details?id=com.cakewallet.cake_wallet) / [App Store](https://itunes.apple.com/app/cake-wallet-for-xmr-monero/id1334702542)|
 |Edge Wallet|Android / iOS|Multi-asset wallet. Website: https://edge.app/ |[Google Play](https://play.google.com/store/apps/details?id=co.edgesecure.app) / [App Store](https://itunes.apple.com/app/edge-bitcoin-wallet/id1344400091)|
 |ZelCore|Android / iOS|⚠️ / Multi-asset wallet. Website: https://zelcore.io/|[Google Play](https://play.google.com/store/apps/details?id=com.zelcash.zelcore) / [App Store](https://itunes.apple.com/app/zelcore/id1436296839)|
@@ -49,7 +47,6 @@ There are multiple Monero wallets for a wide range of devices at your disposal. 
 ### Web-based wallets
 | Wallet       | Description | Link   |
 |:------------:|-------------|:---------------:|
-|MyMonero|Web version of the MyMonero wallet.|[Web](https://wallet.mymonero.com/)|
 |Guarda|Multi-asset wallet.|[Web](https://guarda.co/app)|
 |Coin Wallet|Multi-asset wallet.|[Web](https://coin.space/wallet/)|
 |RINO Wallet|Self-custody Monero multisignature web wallet.|[Web](https://rino.io/)|

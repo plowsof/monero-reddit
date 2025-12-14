@@ -101,7 +101,7 @@ This question is beautifully answered on [StackExchange](https://monero.stackexc
 
 ## **Why does it take so long to sync the wallet [for the first time]?**
 
-You have decided to use Monero's wallet and run a local node. Congratulations! You have chosen the safest and most secure option for your privacy, but unfortunately this has an initial cost. The first reason for the slowness is that you will need to download the entire blockchain, which is considerably heavy (+70 GB) and constantly growing. There are technologies being implemented in Monero to slow this growth, however it is inevitable to make this initial download to run a full node. Consider syncing to a device that has an SSD instead of an HDD, as this greatly impacts the speed of synchronization.
+You have decided to use Monero's wallet and run a local node. Congratulations! You have chosen the safest and most secure option for your privacy, but unfortunately this has an initial cost. The first reason for the slowness is that you will need to download the entire blockchain, which is considerably heavy and constantly growing ([up-to-date sizes of a full/pruned node](https://docs.getmonero.org/technical-specs/#current-blockchain-size)). There are technologies being implemented in Monero to slow this growth, however it is inevitable to make this initial download to run a full node. Consider syncing to a device that has an SSD instead of an HDD, as this greatly impacts the speed of synchronization.
 
 Now that the blockchain is on your computer, the next time you run the wallet you only need to download new blocks, which should take seconds or minutes (depending on how often you use the wallet).
 

@@ -108,7 +108,7 @@ Now that the blockchain is on your computer, the next time you run the wallet yo
 
 ## **I don't want to download the blockchain, how can I skip that?**
 
-The way to skip downloading the blockchain is connecting your wallet to a public remote node. You can follow [this guide](https://getmonero.org/resources/user-guides/remote_node_gui.html) on how to set it up. You can find a list of public remote nodes on [MoneroWorld](https://moneroworld.com/#nodes).
+The way to skip downloading the blockchain is connecting your wallet to a public remote node. You can follow [this guide](https://getmonero.org/resources/user-guides/remote_node_gui.html) on how to set it up. Check out [Feather Wallet's list of remote nodes](https://github.com/feather-wallet/feather-nodes/blob/master/nodes.yaml), [ditatompel's list](https://xmr.ditatompel.com/), or [monero.fail](https://monero.fail).
 
 *Be advised that when using a public remote node you lose some of your privacy. A public remote node is able to identify your IP and opens up a range for [certain attacks](https://moneroworld.com/) that further diminish your privacy.* ***A remote node can't see your balance and it can't spend your XMR.***
 

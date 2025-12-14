@@ -49,7 +49,6 @@ There are multiple Monero wallets for a wide range of devices at your disposal. 
 |:------------:|-------------|:---------------:|
 |Guarda|Multi-asset wallet.|[Web](https://guarda.co/app)|
 |Coin Wallet|Multi-asset wallet.|[Web](https://coin.space/wallet/)|
-|RINO Wallet|Self-custody Monero multisignature web wallet.|[Web](https://rino.io/)|
 
 
 
